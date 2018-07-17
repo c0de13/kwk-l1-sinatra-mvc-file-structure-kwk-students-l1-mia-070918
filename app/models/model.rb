@@ -45,17 +45,6 @@ class Dog
   end  
   
 
-#This class should also keep track of each instance of dog created
-
-
-
-
-#as well as a class method `all` to return an array of those instances.
-
-
-
-
-
 
 end
 
